@@ -7,7 +7,7 @@ No objects, forces, dimensions, or empirical assumptions are postulated.
 
 The framework is fully documented and publicly accessible here:
 
- **[https://antonwallin999.github.io/Relational-Primacy-Framework/](https://antonwallin999.github.io/Relational-Primacy-Framework/)
+ [https://antonwallin999.github.io/Relational-Primacy-Framework/](https://antonwallin999.github.io/Relational-Primacy-Framework/)
 
 
 👉 **https://antonwallin999.github.io/Relational-Primacy-Framework/**
