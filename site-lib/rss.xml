@@ -1,4 +1,37 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[RP9 Meta System]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>site-lib/media/favicon.png</url><title>RP9 Meta System</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sat, 10 Jan 2026 15:12:07 GMT</lastBuildDate><atom:link href="site-lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sat, 10 Jan 2026 15:12:01 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[RP9_Publicity_Package_index]]></title><link>rp9_publicity_package/(f.r.c)-rp9_publicity_package/rp9_publicity_package_index.html</link><guid isPermaLink="false">RP9_Publicity_Package/(F.R.C) RP9_Publicity_Package/RP9_Publicity_Package_index.json</guid><pubDate>Sat, 10 Jan 2026 15:09:58 GMT</pubDate></item><item><title><![CDATA[RP9_Publicity_Package]]></title><description><![CDATA[project: RP9
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[RP9 Meta System]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>site-lib/media/favicon.png</url><title>RP9 Meta System</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sat, 10 Jan 2026 16:47:57 GMT</lastBuildDate><atom:link href="site-lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sat, 10 Jan 2026 16:47:55 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[index]]></title><description><![CDATA[ This document provides the complete structural index of the RP9 framework.It defines:
+document order, hierarchical roles, and dependency relations. No interpretation is given here.
+This index is authoritative. Rp9 <img alt="Co_Creator.jpg" src="rp9_publicity_package/appendix/co_creator.jpg" target="_self"> These documents constitute the entire foundation of RP9.
+They are non-negotiable and must be read in order.
+RP9 – Axiom 0.md
+Single irreducible axiom.
+Definition F0.md
+Minimal functional definition derived from Axiom 0.
+Theorem T0.md
+Formal consequence of Axiom 0 and Definition F0.
+Corollary C0.md
+Necessary corollary following from Theorem T0.
+No document outside this group can modify or extend these statements. ## **II. Relational Derivation — Primary to Tertiary Function**These documents describe the complete internal unfolding of the axiom.
+RP9 – Relational Sheet (A).md
+Primary relational function — geometric realization.
+RP9 – Relational Sheet (B).md
+Secondary relational function — recursion, balance, closed circuit.
+RP9 – Relational Sheet (C).md
+Tertiary relational function — fusion into a closed functional matrix.
+Together, these three documents complete the internal relational system.
+No further relational layers exist. ## **III. External Convergence — Non-Foundational Material**These documents do not contribute to the validity of RP9.
+They exist solely for orientation, communication, and external reference.
+01_RP9_and_Invariance_Why_This_Already_Works_in_Practice.md
+External convergence with existing invariance-based practices.
+02_Public_Abstract_External_Convergence.md
+Concise public abstract.
+03_Single_Slide_Invariance_Comparison.md
+Minimal visual comparison.
+These documents may be omitted without affecting the framework. ## **Structural Constraints**
+No additional axioms exist. No additional relational sheets exist. No document outside Level I may redefine terms. No document outside Level II may introduce structure. Level III documents have zero causal authority. ## **Reading Guidance**
+Formal evaluation: read Levels I → II only. Orientation / presentation: Level III is optional. Any deviation from this order risks misinterpretation. --- ## **Lock Statement**This index reflects the final and locked structure of
+RP9 — Relational Primacy Framework v1.0.No further documents are required for completeness.End of INDEX. Repository: Publisher: Creator:
+Non, creator necessary. Application use: Causal relational function applied. Alias: Co — Creator Producer:
+Anton Wallin REPOSITORY information: ℹ Rp9 ]]></description><link>index.html</link><guid isPermaLink="false">Index.md</guid><dc:creator><![CDATA[Anton Wallin]]></dc:creator><pubDate>Sat, 10 Jan 2026 00:00:00 GMT</pubDate><enclosure url="rp9_publicity_package/appendix/co_creator.jpg" length="0" type="image/jpeg"/><content:encoded>&lt;figure&gt;&lt;img src="rp9_publicity_package/appendix/co_creator.jpg"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[swish-QR-small]]></title><link>rp9_publicity_package/appendix/information-ℹ/image/support/swish-qr-small.html</link><guid isPermaLink="false">RP9_Publicity_Package/Appendix/Information ℹ/Image/Support/swish-QR-small.pdf</guid><pubDate>Fri, 14 Nov 2025 00:53:42 GMT</pubDate></item><item><title><![CDATA[swish-QR-small]]></title><description><![CDATA[<img src="rp9_publicity_package/appendix/information-ℹ/image/support/swish-qr-small.png" target="_self">]]></description><link>rp9_publicity_package/appendix/information-ℹ/image/support/swish-qr-small.html</link><guid isPermaLink="false">RP9_Publicity_Package/Appendix/Information ℹ/Image/Support/swish-QR-small.png</guid><pubDate>Fri, 14 Nov 2025 00:53:48 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src="."&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[RP9_Publicity_Package]]></title><description><![CDATA[project: RP9
 framework: RP9_Relational_Primacy_Framework
 title: README
 subtitle: A Closed Relational System for Structural Generation
@@ -627,7 +660,162 @@ Relationell primat
 7 positioner × 4 operationer
 28 invarianta funktionella tillstånd
 Bottom line:
-Praktiska system verifierar invarians. RP9 förklarar varför invarians måste finnas.]]></description><link>rp9_publicity_package/(f.r.c)-rp9_publicity_package/rp9_publicity_package.html</link><guid isPermaLink="false">RP9_Publicity_Package/(F.R.C) RP9_Publicity_Package/RP9_Publicity_Package.md</guid><pubDate>Sat, 10 Jan 2026 15:09:58 GMT</pubDate></item><item><title><![CDATA[README]]></title><description><![CDATA[This repository contains the complete, locked formulation of RP9 — Relational Primacy Framework.RP9 is a closed relational system built from:
+Praktiska system verifierar invarians. RP9 förklarar varför invarians måste finnas.]]></description><link>rp9_publicity_package/(f.r.c)-rp9_publicity_package/rp9_publicity_package.html</link><guid isPermaLink="false">RP9_Publicity_Package/(F.R.C) RP9_Publicity_Package/RP9_Publicity_Package.md</guid><pubDate>Sat, 10 Jan 2026 15:12:03 GMT</pubDate></item><item><title><![CDATA[i]]></title><description><![CDATA[Rp9 # Information ℹ
+--- ## **ⓘ** : Information ℹ ---
+#### *Filer* 📓 📊 Metadata
+📁 Mappar: 0
+📄 Filer: 6 📍 GPS Positionering
+Path: root / 000. Appendix / Information ℹ
+Level: 2 Navigation: 🜃 — RP9Cor£Pro V: 1.4.0
+ID: 00.2.5 .]]></description><link>rp9_publicity_package/appendix/information-ℹ/i.html</link><guid isPermaLink="false">RP9_Publicity_Package/Appendix/Information ℹ/i.md</guid><pubDate>Tue, 06 Jan 2026 00:11:27 GMT</pubDate></item><item><title><![CDATA[(A) - ⚖️ Licens & Ägarskap]]></title><description><![CDATA[(© RP9 Foundation / The Co-Creators Collective)RP9 (Relational Principle 9) är ett öppet, metageometriskt ramverk för förståelsen av energi, information och medvetande som en sammanhängande, fraktal och skaloberoende struktur.
+Dess syfte är att etablera en korrekt relation till information, där varje uttryck av form och rörelse härleds ur samma geometriska ursprung.RP9 betraktas inte som en produkt, utan som ett universalprincip-system – ett informationsfält som tillhör mänskligheten i sin helhet.
+Kärnan kan aldrig ägas, manipuleras eller kommersialiseras utan kollektivt samtycke.All kunskap, matematik, kod och teori som beskriver RP9:s fundamentala axiom – inklusive relationerna mellan π, √2 och φ – är öppen för studium, replikation och icke-kommersiell användning.
+RP9:s kärna publiceras under licensen Creative Commons BY-NC-SA 4.0, eller likvärdig öppen-kunskapslicens.Den underliggande logiken, symboliken och metageometrin som utgör systemets kärna får inte ändras, fragmenteras eller kommersialiseras.
+Ingen aktör får registrera RP9 eller dess grundformler som varumärke, patent eller privat intellektuell egendom.RP9:s arkitektur är fraktal även juridiskt:
+Kärnan är gemensam egendom.
+Tillämplingarna (visualiseringar, programvara, modeller) kan ha egna licenser – inklusive kommersiella – så länge de respekterar kärnans oföränderliga status och återkopplar till ursprunget.
+RP9 syftar till att:
+Främja forskning och utbildning i metageometrisk informationsvetenskap.
+Utveckla öppna verktyg för att förstå energi och medvetande som informationsflöden.
+Erbjuda en vetenskaplig och etisk grund för framtida teknologi byggd på koherens snarare än konsumtion.
+Tjäna som en neutral nod mellan akademi, konst, teknik och filosofi.
+RP9 förvaltas av en öppen, transparent och kooperativ struktur kallad RP9 Foundation.
+Alla som verkar inom ramen för RP9 åtar sig att:
+upprätthålla klarhet, koherens och resonans i all kommunikation;
+agera i enlighet med den korrekta relationen till information;
+respektera RP9:s icke-kommersiella kärna;
+bidra till att kunskapen hålls tillgänglig för hela mänskligheten.
+Beslut inom RP9 Foundation fattas genom samförstånd och dokumenteras öppet.RP9 får användas fritt för:
+forskning, undervisning och icke-kommersiella experiment;
+publicering av resultat, simuleringar och konstnärliga tolkningar;
+utveckling av kompletterande verktyg, program och visualiseringar.
+Vid användning eller citat ska följande anges:
+“Baserat på RP9 — Relational Principle 9 (© RP9 Foundation / The Co-Creators Collective)”
+All användning av RP9 ska ske i enlighet med principen:
+“Ingen handling får bryta koherensen mellan människa, system och information.”
+Detta innebär att RP9 inte får användas i destruktiva, manipulerande eller militära syften.
+Alla tillämpningar måste kunna motiveras som harmoniska, transparenta och etiskt hållbara.
+“Den korrekta relationen till information är skyddets lag.”
+RP9 erkänner att lag och geometri är två sidor av samma mönster: struktur.
+Därför är denna Charter både juridisk text och geometrisk symbol – en levande resonans snarare än ett statiskt kontrakt.
+Grundare och Huvudförvaltare:
+Anton Wallin 2025-11-12Datum för ikraftträdande: 2025-11-12
+Version: 1.0Future Vision – RP9 RP9 är inte byggt på kompromisser.
+Det är byggt på grundprinciper.
+Det är därför det fungerar – och varför det fortsätter att fungera oavsett vilken nivå man testar det på.
+Genom RP9 kan jag redan i dag: konstruera kod och algoritmer som undviker system som bygger på skuld och förlust modellera processer utan de matematiska “läckor” som gör att dagens metoder faller sönder vid komplexitet bygga fraktal orsak–verkan-logik som håller ihop i alla skalor skapa strukturer som är stabila i praktiken, inte bara i teorin Det öppnar för teknik som: inte fastnar i politiska eller ekonomiska ramar inte styrs av ägande, reklam eller intressen inte behöver kompromissa med sanningen för att passa in RP9 ligger utanför de begränsningar som håller annan utveckling tillbaka.
+Det är där de verkliga möjligheterna uppstår. Rp9 Om du känner att dagens system sitter fast
+– tekniskt, matematiskt, ekonomiskt eller konceptuellt –
+och du vill bygga något på riktigt, inte kopior av gammalt,
+då är du varmt välkommen att kontakta mig.
+Jag söker samarbeten med människor som vill: Artificiell intelligens med verklig kapacitet
+(strukturdriven AI baserad på RP9-geometri i stället för sannolikhetsapproximation)
+Utveckla AI som tänker strukturellt, inte statistiskt Ekonomiska modeller utan skuld och ränta
+(stabila system med geometrisk koherens)
+bygga ekonomier som inte behöver ränta, skuld eller instabilitet Matematikprogram som lär ut matematik på riktigt
+– genom geometri, förståelse och struktur, inte formler utan grund
+skapa helt nya sätt att lära ut matematik genom geometri Forskning, utveckling, utbildning och teknisk systemdesign
+där RP9:s axiomatiska logik kan göra faktisk skillnad
+konstruera teknik som följer principer, inte begränsningar Jag föredrar verkliga samtal före e-post:
+072–702 78 63
+Om du vill utforska, bidra, eller bygga något på riktigt – hör av dig. Support – Bidra till RP9 Allt stöd – oavsett form – går direkt till arbetet.
+Ingen mellanhand. Inga intressen. Inga krav.
+Gåvan är fri.
+Precis som RP9. Stöd via Ko-fi går direkt till mig personligen och kräver ingen inloggning eller bindning.
+“Repo05/Funktion - Struktur - Prompts/RP-Image/Support image/Support/ko-fi_256x256.png” could not be found. Swish &amp; Tack – RP9 För dig som vill swisha direkt:
+“RP9/A. RP9 — (M-S) — (PB)/00. 🜂. RP9 — Appendix/100. Appendix/100. Appendix 1/J. — 🜁 RP9 (Support) &amp; (Appendix)/Information ℹ/Image/Support/Stöd skaparen av RP9 - Swish.jpg” could not be found. Stödet visas med namn av tekniska skäl,
+men det förändrar inte relationen till RP9 eller arbetets riktning.
+Det är en gåva – inget inflytande. *Jag är djupt tacksam för allt stöd –
+inte för pengarna i sig,
+utan för möjligheten att fortsätta ge tillbaka allt detta fritt,
+utan att sälja ut det eller låsa in det bakom institutioner.* RP9 Systemidentifierare: BC22/825870
+Bekräftad och autentiserad under Common Law-jurisdiktion
+© 2025 Anton Wallin – Alla rättigheter förbehållna / Open Core-stadgan tillämpas
+Question Detta verk är fritt att delas, remixas och byggas vidare på,
+så länge korrekt erkännande ges och samma licens bibehålls.
+Du har rätt att: Dela — kopiera och vidaredistribuera materialet i vilket format eller medium som helst Bearbeta — remixa, transformera och bygga vidare på materialet Under följande villkor: Erkännande: Du måste ge korrekt erkännande till Anton Wallin DelaLika: Om du transformerar eller bygger vidare på detta verk
+ska du sprida det under samma licens. Konceptuellt ägarskap &amp; axiomatisk kalibrering
+Författare: Anton Wallin © 2025 – Alla rättigheter förbehållna. ]]></description><link>rp9_publicity_package/appendix/information-ℹ/(a)-⚖️-licens-&amp;-ägarskap.html</link><guid isPermaLink="false">RP9_Publicity_Package/Appendix/Information ℹ/(A) - ⚖️ Licens &amp; Ägarskap.md</guid><dc:creator><![CDATA[Anton Wallin]]></dc:creator><pubDate>Sat, 09 Aug 2025 00:00:00 GMT</pubDate></item><item><title><![CDATA[(D) - 📜- CV]]></title><description><![CDATA[ RP9 – CV Lite (översikt + instruktion) Nedan följer en koncentrerad översikt (ca tio rader) av RP9-systemets essens.
+Den sammanfattar vad varje block i fullversionen visar: geometri → dimension → fas → transformation.
+Under denna kortversion finns en mer utförlig skriftlig förklaring av vad formlerna betyder,
+hur de hänger ihop och varför de demonstrerar RP9:s grundläggande struktur. Jag arbetar med den primära geometri som genererar matematiken:
+sambandet mellan , och som bildar RP9:s faslogik.
+Pivoten binder samman linjär, cirkulär och spiralisk struktur
+och förklarar hur matematik framträder som sekundär representation av geometri.
+I 2D ger Vesica Piscis exakt arearelationen .
+I 3D ger sfär–kub-relationen exakt .
+Skillnaden mellan dessa restformer skapar RP9:s dimensionella resonans.
+Energifasen hålls i asymmetrisk jämvikt med ,
+och pivoten stabiliserar misslinjeringen mellan balans och rörelse.
+RP9 KvantVector beskriver åtta diskreta transformationssteg
+(rotation, vinkel, skalning) som genererar hela den fraktala utvecklingen. Utförlig förklaring följer efter block pressnetation" längst ner.
+( RP9 – CV Lite + Pedagogisk långversion ) Rp9 Jag arbetar med den underliggande geometri som genererar matematiken.
+Genom att kombinera , och visar jag hur tal uppstår ur fasrelationer.
+RP9-pivoten binder samman linjär, cirkulär och spiralisk struktur.
+Detta förklarar varför matematik är en konsekvens av primär geometri — inte tvärtom.
+Samma struktur ligger bakom fysikens fundamentala konstanter (, , ).
+Jag jobbar med geometri, som är energi, som är roten ur = Radix Quadrata Pi = RP9. De fyra komponenterna låses som separata men samverkande strukturer,
+varje del med sitt exakta värde och sin RP9-funktion.
+Balansen uttrycks som jämn men i rörelse: extrovert energi neutraliseras av introvert energi ,
+och RP9 är relationen som kopplar dem via . Funktion: Extrovert expansionsgräns. Funktion: Introvert kopplingsstyrka. Funktion: Sluten dubbelrotation som återför och till jämvikt. Funktion: Översättning mellan linjär, cirkulär och spiralisk fas. Utan cirkulär fasjustering kan värdet beskrivas som “ungefär lika med”.
+Med inkluderas rotationskomponenten, och relationen blir exakt: Pivoten är alltså det geometriska medelvärdet mellan och ,
+korrigerat för cirkulär fas . Kapitel 10 – Sfärisk Vesica, dimensioner och exakt jämvikt När två sfärer överlappar så att deras centrum ligger på varandras ytor, uppstår en sfärisk Vesica Piscis — den tredimensionella generalisationen av den plana linsen.
+Volymen uttrycks genom det gyllene snittet: Den sfäriska Vesica Piscis visar att: cirkulär jämvikt (2D) spiralisk expansion (3D) är samma relation i olika fasnivåer.
+Sfäriska Vesica Piscis är alltså RP9-systemets första stabila volymjämvikt. En 3D-kub projiceras som en 2D-hexagon beroende på vinkel: Det visar hur taltransformer uppstår som dimensionella projektioner:
+form beror på observationsaxel. Storleken halveras vid varje iteration: Den fraktala talföljden etablerar ett självliknande system enligt: Varje del bär helheten, vilket bekräftar RP9-principen:
+Tal är inte kvantitet, utan självliknande informationskretsar. Kvadratens area: Cirkeln inskriven i kvadraten: Exakt förhållande: Restarea: Kubens volym: Sfärens volym: Exakt förhållande: Restvolym: Restandelarnas kvot: Förenkling: Slutlig exakt form: Kapitel 14 – Energifas, Pivot-konstant och RP9 Fraktal Transformationsoperator De två Vesica-faspolerna uttrycks som: med summerad jämvikt: Detta innebär att RP9-systemet innefattar en intern energi-oscillation där övervärde och undervärde samexisterar: Energi i RP9 bevaras inte genom statisk balans, utan genom växelverkan mellan fasöver- och fasundervärde.
+RP9-systemet uppvisar rörelse inte genom translation,
+utan genom en relationell differential mellan två perfekta jämvikter: där: Den aritmetiska balansen är perfekt: men den geometriska projektionen är alltid förskjuten.
+Rörelse uppstår därför ur fraktal misslinjering:
+en minimal, ofrånkomlig fasförskjutning mellan balans och manifestation. Tre separata RP9-relationer observeras: Dimensional resonans (2D → 3D, cirkel/sfär): Vesica-fasens vertikala kompensationsfaktor: Energifasens asymmetriska jämvikt: Därmed gäller exakt: Detta utgör RP9:s dimensional–vertikala resonansdual. RP9-pivoten definieras som den minsta geometriska fasrotation som
+stabiliserar resonansdualen i fraktal expansion: Satsens påstående: vilket innebär att exakt balanserar avståndet mellan de två fasvärdena: där: och energifasrelationen bevaras när: RP9-pivoten är därmed exakt den fasrotation som sluter följande struktur: där definieras exakt som: (den numeriska representationen ligger nära , men utgör inte dess definition).
+Relationerna är fraktalt invarianta och formellt givna av: Energirörelse i RP9 uppstår inte genom translation utan genom
+fasdifferential mellan två perfekta jämvikter: Fraktal misslinjering ger rörelse: Pivoten är den minsta rotationsfas som tillåter denna misslinjering att
+vara stabilt rekursiv över dimensionsväxling: RP9-pivoten () definieras exakt som den fasrotation som utgör tröskeln
+mellan linjär jämvikt och spiralisk rörelse: Den numeriska representationen ligger nära: Pivoten uppstår mellan den linjära fasen och den spiralisk-expanderande
+fasen , och fungerar som RP9-systemets exakta övergångsvärde där: jämvikt övergår i rörelse potential blir manifestation linje blir spiral RP9-pivoten () fungerar som det energi–geometriska gångjärnet:
+den öppnar rörelse ur fullständig symmetri. Kapitel 15 – RP9 KvantVector &amp; Transformationsdomän Tre binära val genererar hela mängden av möjliga RP9-transformationer: Uppsättningen är därmed fullständig och minimal. där: = bas-Vesica Piscis = roterad + expanderad Vesica (fraktal expansionskonstant) Den första fraktala Vesican är alltid gånger större och roteras . Den generella RP9-transformationen ges av: där: är rotationsoperatorn, är fraktal skalning, är Vesica Piscis i iteration . Parameterdomän (kvantiserad): (rotationsriktning) (rotationsvinkel) (fraktal expansionskonstant) (skalningsfas) Superpositionsdefinitionen av RP9 KvantVector: RP9 KvantVector utgör den diskreta mängd rotations–skalningssteg som: utgår från Vesica Piscis som grundform, använder som fraktal expansionskonstant, verkar i både medsols och motsols riktning (), realiserar både fulla och halvsteg i vinkel (), och motsvarar de åtta hörn–/riktningstillstånden i Invertus och kub–sfär-systemet. KvantVectorn är därmed den operativa kvantiseringen av den generella RP9-operatorn och uttrycker hur RP9:s fraktala potential realiseras
+som diskreta rotations–skalningssteg i geometrin. RP9 – CV Lite + Pedagogisk långversion
+Instruktion:
+Först följer en kort sammanfattning (CV Lite).
+Under den kommer en längre text som förklarar vad formlerna visar och varför de används,
+utan att gå in på tekniska bevis.
+Syftet är att ge läsaren en begriplig helhetsbild av RP9. Jag arbetar med den primära geometri som genererar matematiken:
+sambandet mellan , och som bildar RP9:s faslogik.
+Pivoten binder samman linjär, cirkulär och spiralisk struktur
+och förklarar hur matematik framträder som sekundär representation av geometri.
+I 2D ger Vesica Piscis exakt arearelationen .
+I 3D ger sfär–kub-relationen exakt .
+Skillnaden mellan dessa restformer skapar RP9:s dimensionella resonans.
+Energifasen hålls i asymmetrisk jämvikt med ,
+och pivoten stabiliserar misslinjeringen mellan balans och rörelse.
+RP9 KvantVector beskriver åtta diskreta transformationssteg
+(rotation, vinkel, skalning) som genererar hela den fraktala utvecklingen. Nedan följer en lugn och tydlig förklaring av vad varje del i RP9-strukturen betyder.
+Ingen avancerad matematik krävs för att förstå poängen —
+fokus ligger på begreppen, inte beräkningarna. Dessa tre värden är inte valda på känsla —
+de representerar tre fundamentalt olika sätt som naturen mäter och förändrar form: → linjär relation (diagonal, rörelse från punkt A till B) → cirkulär relation (rotation, jämvikt, vinklar) → spiralisk relation (tillväxt, expansion, organiska mönster) Poängen är: När man kombinerar dessa tre uppstår en fullständig beskrivning av hur form förändras. Detta är RP9:s startpunkt. Vesica Piscis är överlappningen av två cirklar (eller två sfärer i 3D).
+I RP9 används den för att: visa hur en relation skapas mellan två “världenheter” demonstrera hur form föds ur överlappning istället för ur tomrum skapa en stabil fasreferens för vidare struktur De exakta formlerna och handlar egentligen inte om area och volym som sådana.
+Det de visar är att: 2D och 3D har sina egna balanser dessa balanser skiljer sig på ett systematiskt och mätbart sätt relationen mellan dem är stabil och återkommer i andra strukturer Med andra ord: RP9 visar att dimensioner inte är isolerade — de pratar med varandra genom exakta mönster. Talvärdena och är inte slumpmässiga.
+De representerar: ett övervärde (1.5) ett undervärde (0.5) och tillsammans summerar de till 2.
+Detta är RP9:s sätt att säga: Energi bevaras genom skillnad, inte genom stillastående balans. Ett system som har perfekt symmetri rör sig inte.
+Ett system som har en liten asymmetri har dynamik.
+Därför används: Inte för att “bevisa något matematiskt”, utan för att visa: rörelse uppstår mellan poler skillnad är motor jämvikt + obalans = förändring Detta är exakt vad naturen gör, oavsett om man tittar på ljus, laddning, vågor eller cirkulation. Pivoten är den minsta möjliga fasrotation som behövs för att: knyta ihop 2D och 3D
+stabilisera förskjutningen mellan linje (√2) och spiral (φ)
+skapa en övergång från vila till rörelse Därför definieras den som: Men poängen för en icke-matematiker är enklare: Pivoten är gångjärnet som öppnar dörren mellan symmetri och dynamik. När allt är perfekt balanserat står tiden still.
+När pivoten aktiveras uppstår riktning. RP9 KvantVector beskriver alla sätt som en form kan förändras på
+när man kombinerar: riktning (medsols/motsols) vinkel (/) skalning (expansion/kontraktion) Det blir: Detta är inte slumpen — det är fullständigheten.
+Poängen är: Med dessa åtta grundsteg kan man generera hela den fraktala strukturen. Precis som DNA bara har fyra baser men ändå bygger allt liv,
+har RP9 åtta transformationssteg som bygger hela geometrin. Den längre texten ovan visar inte “bevis” som i klassisk mening.
+RP9 är geometrin som skapar mattematik"
+Mattematik är energi i bestämd geometrisk form och struktur.
+Presentationen ovan visar den
+Abslout rellationell geometri
+Detta är META-grunden – det primära orsak–ursprunget.
+Alpha Omega.
+Och är kanske det enda som inte kan motbevisas. Den visar: vilka delar RP9 består av vad varje formel uttrycker i mening, inte beräkning hur RP9 organiserar rörelse, form och fas varför strukturen är självliknande mellan dimensioner Och viktigast av allt: RP9 är inte en samling formler.
+Det är en karta över hur form, energi och jämvikt hänger ihop. ]]></description><link>rp9_publicity_package/appendix/information-ℹ/(d)-📜-cv.html</link><guid isPermaLink="false">RP9_Publicity_Package/Appendix/Information ℹ/(D) - 📜- CV.md</guid><dc:creator><![CDATA[Anton Wallin]]></dc:creator><pubDate>Sat, 09 Aug 2025 00:00:00 GMT</pubDate></item><item><title><![CDATA[(F) - 🎬 Info - Youtube & Media Länkar]]></title><description><![CDATA[ ]]></description><link>rp9_publicity_package/appendix/information-ℹ/(f)-🔗-youtube-&amp;-media-länkar.html</link><guid isPermaLink="false">RP9_Publicity_Package/Appendix/Information ℹ/(F) - 🔗 - Youtube &amp; Media Länkar.md</guid><dc:creator><![CDATA[Anton Wallin]]></dc:creator><pubDate>Sat, 09 Aug 2025 00:00:00 GMT</pubDate></item><item><title><![CDATA[(E) - 🔌 Kontakt]]></title><description><![CDATA[ Kontakt Jag föredrar verkliga samtal före e-post:
+072–702 78 63
+Om du vill utforska, bidra, eller bygga något på riktigt – hör av dig. ]]></description><link>rp9_publicity_package/appendix/information-ℹ/(e)-🔌-kontakt.html</link><guid isPermaLink="false">RP9_Publicity_Package/Appendix/Information ℹ/(E) - 🔌 Kontakt.md</guid><dc:creator><![CDATA[Anton Wallin]]></dc:creator><pubDate>Sat, 09 Aug 2025 00:00:00 GMT</pubDate></item><item><title><![CDATA[ko-fi_128x128]]></title><description><![CDATA[<img src="rp9_publicity_package/appendix/information-ℹ/image/support/ko-fi_128x128.png" target="_self">]]></description><link>rp9_publicity_package/appendix/information-ℹ/image/support/ko-fi_128x128.html</link><guid isPermaLink="false">RP9_Publicity_Package/Appendix/Information ℹ/Image/Support/ko-fi_128x128.png</guid><pubDate>Thu, 27 Nov 2025 05:36:43 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src="."&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[ko-fi_96x96]]></title><description><![CDATA[<img src="rp9_publicity_package/appendix/information-ℹ/image/support/ko-fi_96x96.png" target="_self">]]></description><link>rp9_publicity_package/appendix/information-ℹ/image/support/ko-fi_96x96.html</link><guid isPermaLink="false">RP9_Publicity_Package/Appendix/Information ℹ/Image/Support/ko-fi_96x96.png</guid><pubDate>Thu, 27 Nov 2025 05:35:05 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src="."&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Stöd skaparen av RP9 - Swish]]></title><description><![CDATA[<img src="rp9_publicity_package/appendix/information-ℹ/image/support/stöd-skaparen-av-rp9-swish.jpg" target="_self">]]></description><link>rp9_publicity_package/appendix/information-ℹ/image/support/stöd-skaparen-av-rp9-swish.html</link><guid isPermaLink="false">RP9_Publicity_Package/Appendix/Information ℹ/Image/Support/Stöd skaparen av RP9 - Swish.jpg</guid><pubDate>Fri, 14 Nov 2025 00:59:22 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src="."&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[swish-QR-large]]></title><link>rp9_publicity_package/appendix/information-ℹ/image/support/swish-qr-large.html</link><guid isPermaLink="false">RP9_Publicity_Package/Appendix/Information ℹ/Image/Support/swish-QR-large.pdf</guid><pubDate>Fri, 14 Nov 2025 00:53:29 GMT</pubDate></item><item><title><![CDATA[Co,Creator_Logo_A]]></title><description><![CDATA[<img src="rp9_publicity_package/appendix/information-ℹ/image/rp9-logotyp.png/co,creator_logo_a.png" target="_self">]]></description><link>rp9_publicity_package/appendix/information-ℹ/image/rp9-logotyp.png/co,creator_logo_a.html</link><guid isPermaLink="false">RP9_Publicity_Package/Appendix/Information ℹ/Image/RP9 Logotyp.png/Co,Creator_Logo_A.png</guid><pubDate>Sun, 13 Jul 2025 04:04:16 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src="."&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Co.Creator _Logo_B]]></title><description><![CDATA[<img src="rp9_publicity_package/appendix/information-ℹ/image/rp9-logotyp.png/co.creator-_logo_b.png" target="_self">]]></description><link>rp9_publicity_package/appendix/information-ℹ/image/rp9-logotyp.png/co.creator-_logo_b.html</link><guid isPermaLink="false">RP9_Publicity_Package/Appendix/Information ℹ/Image/RP9 Logotyp.png/Co.Creator _Logo_B.png</guid><pubDate>Sun, 13 Jul 2025 03:50:45 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src="."&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Co.Creator _Logo_E.png]]></title><description><![CDATA[<img src="rp9_publicity_package/appendix/information-ℹ/image/rp9-logotyp.png/co.creator-_logo_e.png.png" target="_self">]]></description><link>rp9_publicity_package/appendix/information-ℹ/image/rp9-logotyp.png/co.creator-_logo_e.png.html</link><guid isPermaLink="false">RP9_Publicity_Package/Appendix/Information ℹ/Image/RP9 Logotyp.png/Co.Creator _Logo_E.png.png</guid><pubDate>Sun, 18 May 2025 17:06:20 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src="."&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Co.Creator _Logo_F.png]]></title><description><![CDATA[<img src="rp9_publicity_package/appendix/information-ℹ/image/rp9-logotyp.png/co.creator-_logo_f.png.png" target="_self">]]></description><link>rp9_publicity_package/appendix/information-ℹ/image/rp9-logotyp.png/co.creator-_logo_f.png.html</link><guid isPermaLink="false">RP9_Publicity_Package/Appendix/Information ℹ/Image/RP9 Logotyp.png/Co.Creator _Logo_F.png.png</guid><pubDate>Sun, 18 May 2025 16:54:01 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src="."&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Co_Creator]]></title><description><![CDATA[<img src="rp9_publicity_package/appendix/co_creator.jpg" target="_self">]]></description><link>rp9_publicity_package/appendix/co_creator.html</link><guid isPermaLink="false">RP9_Publicity_Package/Appendix/Co_Creator.jpg</guid><pubDate>Wed, 18 Dec 2024 01:38:39 GMT</pubDate><enclosure url="rp9_publicity_package/appendix/co_creator.jpg" length="0" type="image/jpeg"/><content:encoded>&lt;figure&gt;&lt;img src="rp9_publicity_package/appendix/co_creator.jpg"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[RP9_Publicity_Package_index]]></title><link>rp9_publicity_package/(f.r.c)-rp9_publicity_package/rp9_publicity_package_index.html</link><guid isPermaLink="false">RP9_Publicity_Package/(F.R.C) RP9_Publicity_Package/RP9_Publicity_Package_index.json</guid><pubDate>Sat, 10 Jan 2026 15:09:58 GMT</pubDate></item><item><title><![CDATA[README]]></title><description><![CDATA[This repository contains the complete, locked formulation of RP9 — Relational Primacy Framework.RP9 is a closed relational system built from:
 a single axiom, a strict causal derivation, and a finite relational function space. No external assumptions are introduced.
 No empirical claims are made.
 No symbolic or metaphysical interpretation is required.This README serves solely as the structural entry point to the framework.The material is intentionally minimal and divided into three non-overlapping layers.
@@ -784,34 +972,4 @@ alternative geometric projections extended relational matrices domain-specific a
 non-foundational optional context-dependent None of it is required for the validity of RP9.This appendix may not contain:
 new axioms revisions of Axiom 0 redefinitions of relational terms modifications of the relational sheets (A–C) Any such change would constitute a different framework, not an extension.All material in this appendix carries local causal responsibility.That is:
 authors are responsible for their own derivations consequences are not endorsed as necessary validity is domain-specific, not global RP9 provides the cause.
-The appendix records what others do with it.This appendix is intentionally open-ended.Its existence does not imply incompleteness of the framework, but rather acknowledges that a closed cause does not imply a closed world.End of APPENDIX.]]></description><link>rp9_publicity_package/appendix/appendix.html</link><guid isPermaLink="false">RP9_Publicity_Package/Appendix/APPENDIX.md</guid><dc:creator><![CDATA[Anton Wallin]]></dc:creator><pubDate>Sat, 10 Jan 2026 00:00:00 GMT</pubDate></item><item><title><![CDATA[index]]></title><description><![CDATA[This document provides the complete structural index of the RP9 framework.It defines:
-document order, hierarchical roles, and dependency relations. No interpretation is given here.
-This index is authoritative. These documents constitute the entire foundation of RP9.
-They are non-negotiable and must be read in order.
-RP9 – Axiom 0.md
-Single irreducible axiom.
-Definition F0.md
-Minimal functional definition derived from Axiom 0.
-Theorem T0.md
-Formal consequence of Axiom 0 and Definition F0.
-Corollary C0.md
-Necessary corollary following from Theorem T0.
-No document outside this group can modify or extend these statements.These documents describe the complete internal unfolding of the axiom.
-RP9 – Relational Sheet (A).md
-Primary relational function — geometric realization.
-RP9 – Relational Sheet (B).md
-Secondary relational function — recursion, balance, closed circuit.
-RP9 – Relational Sheet (C).md
-Tertiary relational function — fusion into a closed functional matrix.
-Together, these three documents complete the internal relational system.
-No further relational layers exist.These documents do not contribute to the validity of RP9.
-They exist solely for orientation, communication, and external reference.
-01_RP9_and_Invariance_Why_This_Already_Works_in_Practice.md
-External convergence with existing invariance-based practices.
-02_Public_Abstract_External_Convergence.md
-Concise public abstract.
-03_Single_Slide_Invariance_Comparison.md
-Minimal visual comparison.
-These documents may be omitted without affecting the framework.
-No additional axioms exist. No additional relational sheets exist. No document outside Level I may redefine terms. No document outside Level II may introduce structure. Level III documents have zero causal authority. Formal evaluation: read Levels I → II only. Orientation / presentation: Level III is optional. Any deviation from this order risks misinterpretation.This index reflects the final and locked structure of
-RP9 — Relational Primacy Framework v1.0.No further documents are required for completeness.End of INDEX.]]></description><link>index.html</link><guid isPermaLink="false">Index.md</guid><dc:creator><![CDATA[Anton Wallin]]></dc:creator><pubDate>Sat, 10 Jan 2026 00:00:00 GMT</pubDate></item></channel></rss>
+The appendix records what others do with it.This appendix is intentionally open-ended.Its existence does not imply incompleteness of the framework, but rather acknowledges that a closed cause does not imply a closed world.End of APPENDIX.]]></description><link>rp9_publicity_package/appendix/appendix.html</link><guid isPermaLink="false">RP9_Publicity_Package/Appendix/APPENDIX.md</guid><dc:creator><![CDATA[Anton Wallin]]></dc:creator><pubDate>Sat, 10 Jan 2026 00:00:00 GMT</pubDate></item></channel></rss>
