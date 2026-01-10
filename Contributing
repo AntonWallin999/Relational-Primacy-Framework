@@ -1,0 +1,70 @@
+# Contributing to RP9 — Relational Primacy Framework
+
+Thank you for your interest in RP9.
+
+This repository is **not a conventional open-source project**.  
+It is a **causally structured reference framework** with a locked relational core.
+
+As such, contribution is intentionally restricted.
+
+---
+
+## Scope of contributions
+
+### ❌ Not accepted
+
+- Casual pull requests
+- Feature additions
+- Refactoring or stylistic changes
+- Alternative axioms or foundational modifications
+- “Clarifications” that alter meaning or scope
+
+The core framework (Axiom 0, Definitions, Theorems, Relational Sheets A–C) is **not open to modification**.
+
+---
+
+### ✅ Accepted (by request only)
+
+- Precise objections to internal coherence
+- Identification of hidden assumptions
+- Structural or categorical errors
+- Formal critiques of derivations
+
+A **single decisive objection** is more valuable than extensive commentary.
+
+---
+
+## How to engage
+
+If you believe you have identified a structural flaw or inconsistency:
+
+1. Do **not** submit a pull request.
+2. Open an issue, or contact the author directly.
+3. State the objection clearly and minimally.
+4. Reference the exact document and section.
+
+No defense, debate, or iteration is expected unless explicitly requested.
+
+---
+
+## Philosophy
+
+RP9 defines a **closed relational circuit** as cause.  
+All further systems, interpretations, and applications are **open consequences**.
+
+This repository preserves the cause.  
+Contributions are evaluated solely on whether they identify errors in that cause.
+
+---
+
+## Attribution
+
+If you build upon RP9 externally, attribution is required under the project license.
+
+---
+
+**Author:** Anton Wallin  
+**Framework:** RP9 — Relational Primacy Framework  
+
+---
+
