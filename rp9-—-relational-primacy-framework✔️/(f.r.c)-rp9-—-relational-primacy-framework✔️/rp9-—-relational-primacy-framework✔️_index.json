@@ -1,0 +1,32 @@
+{
+    "_files": [
+        "1. RP9 — Submission — LEVEL 0 — AXIOM R0.md",
+        "2. Document I — Formal Delimitation.md",
+        "3. DOCUMENT II — Category Definition and Status Levels.md",
+        "4. DOCUMENT III — Reviewer Notes - Instructions and Scope Lock.md",
+        "Contributing.md",
+        "License.md",
+        "Links.md",
+        "README — Overview.md",
+        "Top-level README.md"
+    ],
+    "Appendix": {
+        "_files": [
+            "5. Appendix A — Relational Potential.md",
+            "Meta-Corollary M0.md",
+            "Position X — The only irreducible opposition.md"
+        ],
+        "Questions  & Validations": {
+            "_files": [
+                "Axiomatic Stress Test — Questions - Final Locked.md",
+                "Introductory Presentation — AI-Based Quality Control.md"
+            ],
+            "AI - Response to questions - Data Output": {
+                "_files": [
+                    "AI - Response to question - Data Output.md",
+                    "The Summary and Final Review of Results.md"
+                ]
+            }
+        }
+    }
+}
